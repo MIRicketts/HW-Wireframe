@@ -1,0 +1,48 @@
+
+
+body{
+  text-align: center;
+  background-color: gray;
+  margin: 15px;
+    font-size: 18px;
+    border: 
+}
+
+.header{
+  background-color: rgb(0, 26, 255);
+  width: 100%;
+  padding: 20px;
+}
+
+.nav{
+  background-color: blueviolet;
+  width: 100%;
+  padding: 20px;
+}
+
+.section{
+  background-color: yellow;
+  width: 45%;
+  padding: 80px;
+  float: left;
+}
+
+.aside{
+  background-color: green;
+  width: 30%;
+  padding: 80px;
+  float: right;
+}
+
+.clearfix{
+  content: "";
+  display: black;
+  clear: both;
+}
+
+.footer{
+  background-color: red;
+  width: 100%;
+  padding: 20px;
+  border: 1px;
+}
